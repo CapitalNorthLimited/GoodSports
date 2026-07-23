@@ -1,48 +1,46 @@
-Good sports Child Safety
+# Good Sports - Child Safety Standards
 
-Good Sports Child Safety Standards Against Child Sexual Abuse and Exploitation (CSAE)
-Our Commitment to Child Safety
+**Last updated:** 23 July 2026
 
-Good Sports is committed to providing a safe and respectful environment for all users. We do not tolerate child sexual abuse and exploitation (CSAE), child grooming, sexual exploitation of children, or any behaviour that places children at risk.
+Good Sports is committed to providing a safe environment for all users and has a zero-tolerance policy towards Child Sexual Abuse and Exploitation (CSAE).
 
-Good Sports prohibits any content, communication, or behaviour that sexually exploits, abuses, or endangers children.
+## Zero Tolerance
 
-Prohibited Behaviour
+Users must not use Good Sports to:
 
-The following activities are strictly prohibited on Good Sports:
+- Create, upload, share or request Child Sexual Abuse Material (CSAM).
+- Groom, exploit or sexually abuse a child.
+- Encourage, facilitate or promote child sexual exploitation.
+- Communicate with minors for sexual purposes.
+- Use the platform in any way that endangers children.
 
-Any attempt to sexually exploit or abuse a child.
-Grooming, manipulation, or attempts to build inappropriate relationships with children for sexual purposes.
-Sharing, requesting, creating, or distributing child sexual abuse material (CSAM).
-Sexual harassment, sexual coercion, sextortion, trafficking, or any other form of sexual exploitation involving children.
-Using the Good Sports platform to arrange inappropriate contact with children.
-User Safety and Reporting
+Any account found to be engaging in these activities will be permanently suspended or terminated.
 
-Good Sports provides users with ways to report concerns about inappropriate behaviour, abuse, or content that violates our community standards.
+## Reporting
 
-Users should report any suspected CSAE activity immediately through the reporting features available within the app or by contacting our support team.
+Users can report inappropriate profiles, messages or behaviour directly within the Good Sports app using the built-in reporting features.
 
-Reports involving child safety are treated seriously and reviewed as a priority.
+Reports are reviewed as quickly as possible.
 
-Action We May Take
+## Enforcement
 
-Where we identify or receive credible reports of CSAE, Good Sports may take appropriate action, including:
+When we become aware of content or behaviour involving CSAE or CSAM we will:
 
-Removing offending content.
-Restricting or removing user accounts.
-Preventing users from accessing the platform.
-Reporting illegal activity to relevant authorities where required by law.
-Cooperating with law enforcement or child protection organisations where appropriate.
-Protecting Our Community
+- Remove the offending content where applicable.
+- Suspend or permanently terminate the responsible account.
+- Preserve information where appropriate.
+- Report confirmed CSAM to the relevant law enforcement or child protection authorities where required by applicable law.
 
-Good Sports is designed to help people connect through shared sporting interests. Users are expected to behave respectfully and responsibly and must not use the platform for any activity that harms, exploits, or endangers children.
+## Compliance
 
-We encourage all users to help maintain a safe community by reporting concerns promptly.
+Good Sports complies with applicable child safety laws and regulations relating to child sexual abuse and exploitation.
 
-Child Safety Contact
+## Child Safety Contact
 
-For child safety concerns relating to Good Sports, please contact:
+Google Play and relevant authorities may contact us regarding child safety matters at:
 
 capitalnorthdeveloper@gmail.com
 
-Good Sports will review child safety reports and respond appropriately in accordance with applicable laws and our safety standards.
+## Our Commitment
+
+We continually review our moderation procedures and safety measures to help keep Good Sports a safe place for everyone.
