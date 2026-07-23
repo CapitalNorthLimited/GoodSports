@@ -41,8 +41,6 @@ We encourage all users to help maintain a safe community by reporting concerns p
 
 Child Safety Contact
 
-For child safety concerns relating to Good Sports, please contact:
-
-[Insert child safety contact email address]
+For child safety concerns relating to Good Sports, please contact: capitalnorthdeveloper@gmail.com
 
 Good Sports will review child safety reports and respond appropriately in accordance with applicable laws and our safety standards.
