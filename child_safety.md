@@ -20,6 +20,8 @@ Any account found to be engaging in these activities will be permanently suspend
 
 Users can report inappropriate profiles, messages or behaviour directly within the Good Sports app using the built-in reporting features.
 
+Users can block other users who may have messaged them. When blocked the administrator will be notified of any blocks. When a person has been blocked they will not be able to subsequently message or search for the person who initiated the block.
+
 Reports are reviewed as quickly as possible.
 
 ## Enforcement
